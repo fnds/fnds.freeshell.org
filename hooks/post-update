@@ -1,0 +1,2 @@
+#!/bin/sh
+unset GIT_DIR && cd /sdf/arpa/af/f/fnds/html/test && git pull
