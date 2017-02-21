@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: fnds.freeshell.org
+email: fnds (at) freeshell . org
+#email: fnds@freshell.org
+description: Micah 6:8
+baseurl: "/test1/_site" # the subpath of your site, e.g. /blog
+url: "http://fnds.freeshell.org" # the base hostname & protocol for your site
+twitter_username: fnds
+github_username:  fnds
+
+# Build settings
+markdown: kramdown
